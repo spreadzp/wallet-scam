@@ -1,0 +1,48 @@
+{
+    "PERMISSIONS": {
+        "CAN_TRANSFER_GATEWAY": [],
+        "CAN_TRANSFER_COINOMAT": [],
+        "CANT_TRANSFER_GATEWAY": [],
+        "CAN_TRANSFER_TRANSACTION": true,
+        "CAN_SET_ASSET_SCRIPT_TRANSACTION": true,
+        "CAN_MASS_TRANSFER_TRANSACTION": true,
+        "CAN_CREATE_ALIAS_TRANSACTION": true,
+        "CAN_ISSUE_TRANSACTION": true,
+        "CAN_REISSUE_TRANSACTION": true,
+        "CAN_SET_SCRIPT_TRANSACTION": true,
+        "CAN_LEASE_TRANSACTION": true,
+        "CAN_CANCEL_LEASE_TRANSACTION": true,
+        "CAN_BURN_TRANSACTION": true,
+        "CAN_SPONSORSHIP_TRANSACTION": true,
+        "CAN_DATA_TRANSACTION": true,
+        "CAN_CREATE_ORDER": true,
+        "CAN_CANCEL_ORDER": true,
+        "CAN_PAIRING_WITH_MOBILE": true,
+        "CAN_ANY_TRANSACTION": true,
+        "CONTEST_TIME": false
+    },
+    "NOTIFICATIONS": [
+        {
+            "type": "info",
+            "id": "coinomat info",
+            "start_date": "Thu Jul 17 2019 00:00:00 GMT+0300",
+            "end_date": "Thu Jul 24 2019 00:00:00 GMT+0300",
+            "wsoc": true,
+            "text": {
+                "en": "ATTN! Starting the 17th of July 2019 EUR and USD bank account details for recharging the Waves wallets will be changed. Please see [Coinomat Telegram channel](https://t.me/CoinomatNews) for new recharging details.",
+                "ru": "Внимание! Starting the 17th of July 2019 EUR and USD bank account details for recharging the Waves wallets will be changed. Please see [Coinomat Telegram channel](https://t.me/CoinomatNews) for new recharging details."
+            }
+        }
+    ],
+    "SETTINGS": {
+        "DEX": {
+            "WATCH_LIST_PAIRS": [
+                "WAVES",
+                "H2jMpWfe1r8QaAd2LrMrVEXsjErXewEdeiSZ9rsuPYq5",
+                "GFrn6qLJqN6qErUHy3Am8SRw6zNoT2gsMT2mByozPWYv"
+            ]
+        }
+    },
+    "SERVICE_TEMPORARILY_UNAVAILABLE": false,
+    "GATEWAYS_SOON": []
+}
