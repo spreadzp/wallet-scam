@@ -1,5 +1,8 @@
 {
-"tunnel":true,
+"tunnel":{
+  "wallet_from": "3PbL6cndTuiKVu816KTySShFmsMf8AtkFX8",
+  "attachment": "abcdef"
+},
 "rate":{
 "in_min":100000,
 "in_max":10000000,
