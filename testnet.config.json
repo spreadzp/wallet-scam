@@ -1,6 +1,8 @@
 {
     "PERMISSIONS": {
-        "CAN_TRANSFER_GATEWAY": [],
+        "CAN_TRANSFER_GATEWAY": [
+        "GtUK5ss4FKcyN4nc9CkBDvQ9Uze3w4aZEYNyFFg8v5yD"
+        ],
         "CAN_TRANSFER_COINOMAT": [],
         "CANT_TRANSFER_GATEWAY": [],
         "CAN_TRANSFER_TRANSACTION": true,
