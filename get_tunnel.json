@@ -3,8 +3,8 @@
   "wallet_from": "3PbL6cndTuiKVu816KTySShFmsMf8AtkFX8",
   "attachment": "abcdef"
 },
-"in_min":100000,
-"in_max":10000000,
+"in_min":0.00001,
+"in_max":1,
 "xrate":10000,
-"fee_out":10000
+"fee_out":0.000001
 }
